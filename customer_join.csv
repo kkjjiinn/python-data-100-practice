@@ -1,4 +1,4 @@
-customer_id,name,class,gender,start_date,end_date,campaign_id,is_deleted,class_name,price,campaign_name,mean,median,amax,amin,flag,cal_date,mem_period
+customer_id,name,class,gender,start_date,end_date,campaign_id,is_deleted,class_name,price,campaign_name,mean,median,max,min,routine_flg,calc_date,membership_period
 OA832399,XXXX,C01,F,2015-05-01,,CA1,0,0_종일,10500,2_일반,4.833333333333333,5.0,8,2,1,2019-04-30,47
 PL270116,XXXXX,C01,M,2015-05-01,,CA1,0,0_종일,10500,2_일반,5.083333333333333,5.0,7,3,1,2019-04-30,47
 OA974876,XXXXX,C01,M,2015-05-01,,CA1,0,0_종일,10500,2_일반,4.583333333333333,5.0,6,3,1,2019-04-30,47
